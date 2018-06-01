@@ -9,8 +9,5 @@ Game rules are very simple: you have to choose the right number based on the ran
 Bootstrap 4 and fonts from FontAwesome are used to style the layout.
 
 The functionality I added myself is timer - 30 seconds to finish the game.
-<<<<<<< HEAD
+
 All the code has been written in jscomplete.com/repl/ so I have to adapt it to the React file stucture.
-=======
-All the code has been written in jscomplete.com/repl/ so I have to adapt it to the React file stucture.
->>>>>>> ce5a590b8b4a3f3e3fb03e0faeb4fe6b145efe8f
